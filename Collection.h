@@ -2,7 +2,7 @@
 
 #include <vector>
 
-#include "searchVector.h"
+#include "lib/searchVector.h"
 
 using namespace std;
 
